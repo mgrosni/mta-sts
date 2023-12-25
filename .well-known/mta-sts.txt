@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: host69241294633.adsl.solnet.ch
+max_age: 604800
